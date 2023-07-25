@@ -2,7 +2,7 @@
 	"authenticate": {
 		"id": "testid@gmail.com",
 		"expiresIn": "300",
-		"token": "dummy_token",
+		"token": "dummy_token"
 	},
 	"CASE_LIST": [
 		{
