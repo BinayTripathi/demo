@@ -1,7 +1,53 @@
 {
-  "authenticate": {
-      "id": "testId@gmail.com",
-      "expiresIn" : "300",
-      "token" : "dummy_token"
-      }
+	"authenticate": {
+		"id": "testId@gmail.com",
+		"expiresIn": "300",
+		"token": "dummy_token",
+	},
+	"CASE_LIST": [{
+			id: 'HL124',
+			description: 'Health Claim Gabbar Singh',
+			date:'2021-12-19'
+		},
+		{
+			id: 'HL137',
+			description: 'Health Claim Johny Jasoos',
+			date:'2022-01-05'
+		},
+		{
+			id: 'DTH423',
+			description: 'Death Claim Tiger Zinda',
+			date:'2021-12-01'
+		},
+		{
+			id: 'HL215',
+			description: 'Health Claim Justice Chaudhari',
+			date:'2022-02-19'
+		},
+		{
+			id: 'DTH431',
+			description: 'Death Claim Bruce Lee',
+			date:'2022-02-18'
+		},
+		{
+			id: 'HL441',
+			description: 'Health Claim Chacha Chaudhari',
+			date:'2022-01-05'
+		},
+		{
+			id: 'HL547',
+			description: 'Health Claim Parimal Tripathi',
+			date:'2021-12-01'
+		},
+		{
+			id: 'HL444',
+			description: 'Health Claim Natu Natu',
+			date:'2022-01-05'
+		},
+		{
+			id: 'HL548',
+			description: 'Health Claim Chalie Chaplin',
+			date:'2021-12-01'
+		}
+	]
 }
