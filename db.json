@@ -1,6 +1,6 @@
 {
 	"authenticate": {
-		"id": "test"id"@gmail.com",
+		"id": "testid@gmail.com",
 		"expiresIn": "300",
 		"token": "dummy_token",
 	},
