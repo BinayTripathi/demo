@@ -7,48 +7,84 @@
 	"CASE_LIST": [
 		{
 			"id": "HL124",
-			"description": "Health Claim Gabbar Singh",
-			"date":"2021-12-19"
+			"customer": "Gabbar Singh",
+			"phone": "88888888",
+			"date":"2021-12-19",
+			"claimType": "Health",
+			"location": "218001",
+			"photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJvHpFaO66SAnwpkk-a6ub6yLjk0JiaxekAr8lJJs&s"
 		},
 		{
 			"id": "HL137",
-			"description": "Health Claim Johny Jasoos",
-			"date":"2022-01-05"
+			"description": "Sherlock Jasoos",
+			"phone": "88888888",
+			"date":"2022-01-05",
+			"claimType": "Health",
+			"location": "218001",
+			"photo" : "https://images.theconversation.com/files/372277/original/file-20201201-15-1l4iewv.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C6648%2C3319&q=45&auto=format&w=1356&h=668&fit=crop"
 		},
 		{
 			"id": "DTH423",
-			"description": "Death Claim Tiger Zinda",
-			"date":"2021-12-01"
+			"description": "Mike Byson",
+			"phone": "88888888",
+			"date":"2021-12-01",
+			"claimType": "Death",
+			"location": "218001",
+			"photo" : "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQOEwnTD45JCZXl2gHQY79H9VnX2-4TzysGR0lupj5EeZLuE_ILD4IVyBGYPKBcNJS2xYiNTBaTlPGkyns"
 		},
 		{
 			"id": "HL215",
-			"description": "Health Claim Justice Chaudhari",
-			"date":"2022-02-19"
+			"description": "Justice Chaudhari",
+			"phone": "88888888",
+			"date":"2022-02-19",
+			"claimType": "Health",
+			"location": "218001",
+			"photo" : "https://image.shutterstock.com/image-photo/head-shot-portrait-close-smiling-260nw-1714666150.jpg"
 		},
 		{
 			"id": "DTH431",
-			"description": "Death Claim Bruce Lee",
-			"date":"2022-02-18"
+			"description": "Bruce Lee",
+			"phone": "88888888",
+			"date":"2022-02-18",
+			"claimType": "Death",
+			"location": "218001",
+			"photo" : "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg"
 		},
 		{
 			"id": "HL441",
-			"description": "Health Claim Chacha Chaudhari",
-			"date":"2022-01-05"
+			"description": "Chacha Chaudhari",
+			"phone": "88888888",
+			"date":"2022-01-05",
+			"claimType": "Health",
+			"location": "218001",
+			"photo" : "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/Desk/2021_10$largeimg_406543437.jpeg"
 		},
 		{
 			"id": "HL547",
-			"description": "Health Claim Parimal Tripathi",
-			"date":"2021-12-01"
+			"description": "Parimal Tripathi",
+			"phone": "88888888",
+			"date":"2021-12-01",
+			"claimType": "Health",
+			"location": "218001",
+			"photo" : "https://image.shutterstock.com/image-photo/head-shot-portrait-close-smiling-260nw-1714666150.jpg"
 		},
 		{
 			"id": "HL444",
-			"description": "Health Claim Natu Natu",
-			"date":"2022-01-05"
+			"description": "Natu Natu",
+			"phone": "88888888",
+			"date":"2022-01-05",
+			"claimType": "Health",
+			"location": "218001",
+			"photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyeofYS0GJ208Y8qD8n-stKhjce8anHdolmCHh6CT&s"
 		},
 		{
 			"id": "HL548",
-			"description": "Health Claim Chalie Chaplin",
-			"date":"2021-12-01"
+			"description": "Chalie Chaplin",
+			"phone": "88888888",
+			"date":"2021-12-01",
+			"claimType": "Health",
+			"location": "218001",
+			"photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOZGAo86dvgSSc1qWPJE8BcRbFVym6KAJ5EcJh_A6&s"
 		}
 	]
 }
