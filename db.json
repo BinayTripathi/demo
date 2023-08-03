@@ -16,7 +16,7 @@
 		},
 		{
 			"id": "HL137",
-			"description": "Sherlock Jasoos",
+			"customer": "Sherlock Jasoos",
 			"phone": "88888888",
 			"date":"2022-01-05",
 			"claimType": "Health",
@@ -25,7 +25,7 @@
 		},
 		{
 			"id": "DTH423",
-			"description": "Mike Byson",
+			"customer": "Mike Byson",
 			"phone": "88888888",
 			"date":"2021-12-01",
 			"claimType": "Death",
@@ -34,7 +34,7 @@
 		},
 		{
 			"id": "HL215",
-			"description": "Justice Chaudhari",
+			"customer": "Justice Chaudhari",
 			"phone": "88888888",
 			"date":"2022-02-19",
 			"claimType": "Health",
@@ -43,7 +43,7 @@
 		},
 		{
 			"id": "DTH431",
-			"description": "Bruce Lee",
+			"customer": "Bruce Lee",
 			"phone": "88888888",
 			"date":"2022-02-18",
 			"claimType": "Death",
@@ -52,7 +52,7 @@
 		},
 		{
 			"id": "HL441",
-			"description": "Chacha Chaudhari",
+			"customer": "Chacha Chaudhari",
 			"phone": "88888888",
 			"date":"2022-01-05",
 			"claimType": "Health",
@@ -61,7 +61,7 @@
 		},
 		{
 			"id": "HL547",
-			"description": "Parimal Tripathi",
+			"customer": "Parimal Tripathi",
 			"phone": "88888888",
 			"date":"2021-12-01",
 			"claimType": "Health",
@@ -70,7 +70,7 @@
 		},
 		{
 			"id": "HL444",
-			"description": "Natu Natu",
+			"customer": "Natu Natu",
 			"phone": "88888888",
 			"date":"2022-01-05",
 			"claimType": "Health",
@@ -79,7 +79,7 @@
 		},
 		{
 			"id": "HL548",
-			"description": "Chalie Chaplin",
+			"customer": "Chalie Chaplin",
 			"phone": "88888888",
 			"date":"2021-12-01",
 			"claimType": "Health",
