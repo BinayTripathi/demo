@@ -10,7 +10,7 @@
          "customerName":"Bhola Ram",
          "customerEmail":"agent@agency.com",
          "policyNumber":"989898989",
-		 "policyType":"health",
+         "policyType":"health",
          "gender":0,
          "addressline":"Test",
          "code":"585404",
@@ -18,7 +18,7 @@
          "state":"KARNATAKA",
          "district":"BIDAR",
          "description":"Comment",
-		 "photo" : "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+         "photo":"https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
          "locations":[
             {
                "caseLocationId":1,
@@ -31,12 +31,12 @@
             }
          ]
       },
-	  {
+      {
          "claimId":"b266afb6-3df8-4659-a40d-ce070aa3f5ae",
          "customerName":"Shola Kam",
          "customerEmail":"agent@agency.com",
          "policyNumber":"989898988",
-		 "policyType":"death",
+         "policyType":"death",
          "gender":0,
          "addressline":"Test",
          "code":"585404",
@@ -44,7 +44,7 @@
          "state":"KARNATAKA",
          "district":"BIDAR",
          "description":"Comment",
-		 "photo" : "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+         "photo":"https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
          "locations":[
             {
                "caseLocationId":1,
@@ -57,12 +57,12 @@
             }
          ]
       },
-	  {
+      {
          "claimId":"b266afb6-3df8-4659-a40d-ce070aa3f5af",
          "customerName":"Thola Bam",
          "customerEmail":"agent@agency.com",
          "policyNumber":"789898988",
-		 "policyType":"health",
+         "policyType":"health",
          "gender":0,
          "addressline":"Test",
          "code":"585404",
@@ -70,7 +70,7 @@
          "state":"KARNATAKA",
          "district":"BIDAR",
          "description":"Comment",
-		 "photo" : "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg",
+         "photo":"https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg",
          "locations":[
             {
                "caseLocationId":1,
@@ -83,12 +83,12 @@
             }
          ]
       },
-	  {
+      {
          "claimId":"b266afb6-3df8-4659-a40d-ce070aa3f5ag",
          "customerName":"Mhola Pam",
          "customerEmail":"agent@agency.com",
          "policyNumber":"669898988",
-		 "policyType":"death",
+         "policyType":"death",
          "gender":0,
          "addressline":"Test",
          "code":"585404",
@@ -96,7 +96,7 @@
          "state":"KARNATAKA",
          "district":"BIDAR",
          "description":"Comment",
-		 "photo" : "https://img.freepik.com/free-photo/handsome-young-man-with-new-stylish-haircut_176420-19637.jpg?w=1060&t=st=1691111626~exp=1691112226~hmac=f81d2a618ae7734fa6272887b4775d92b744face2625af294ebb6c0100caa255",
+         "photo":"https://img.freepik.com/free-photo/handsome-young-man-with-new-stylish-haircut_176420-19637.jpg?w=1060&t=st=1691111626~exp=1691112226~hmac=f81d2a618ae7734fa6272887b4775d92b744face2625af294ebb6c0100caa255",
          "locations":[
             {
                "caseLocationId":1,
