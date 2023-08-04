@@ -1,90 +1,109 @@
 {
-	"authenticate": {
-		"id": "testid@gmail.com",
-		"expiresIn": "300",
-		"token": "dummy_token"
-	},
-	"CASE_LIST": [
-		{
-			"id": "HL124",
-			"customer": "Gabbar Singh",
-			"phone": "88888888",
-			"date":"2021-12-19",
-			"claimType": "Health",
-			"location": "218001",
-			"photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJvHpFaO66SAnwpkk-a6ub6yLjk0JiaxekAr8lJJs&s"
-		},
-		{
-			"id": "HL137",
-			"customer": "Sherlock Jasoos",
-			"phone": "88888888",
-			"date":"2022-01-05",
-			"claimType": "Health",
-			"location": "218001",
-			"photo" : "https://images.theconversation.com/files/372277/original/file-20201201-15-1l4iewv.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C6648%2C3319&q=45&auto=format&w=1356&h=668&fit=crop"
-		},
-		{
-			"id": "DTH423",
-			"customer": "Mike Byson",
-			"phone": "88888888",
-			"date":"2021-12-01",
-			"claimType": "Death",
-			"location": "218001",
-			"photo" : "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQOEwnTD45JCZXl2gHQY79H9VnX2-4TzysGR0lupj5EeZLuE_ILD4IVyBGYPKBcNJS2xYiNTBaTlPGkyns"
-		},
-		{
-			"id": "HL215",
-			"customer": "Justice Chaudhari",
-			"phone": "88888888",
-			"date":"2022-02-19",
-			"claimType": "Health",
-			"location": "218001",
-			"photo" : "https://image.shutterstock.com/image-photo/head-shot-portrait-close-smiling-260nw-1714666150.jpg"
-		},
-		{
-			"id": "DTH431",
-			"customer": "Bruce Lee",
-			"phone": "88888888",
-			"date":"2022-02-18",
-			"claimType": "Death",
-			"location": "218001",
-			"photo" : "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg"
-		},
-		{
-			"id": "HL441",
-			"customer": "Chacha Chaudhari",
-			"phone": "88888888",
-			"date":"2022-01-05",
-			"claimType": "Health",
-			"location": "218001",
-			"photo" : "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/Desk/2021_10$largeimg_406543437.jpeg"
-		},
-		{
-			"id": "HL547",
-			"customer": "Parimal Tripathi",
-			"phone": "88888888",
-			"date":"2021-12-01",
-			"claimType": "Health",
-			"location": "218001",
-			"photo" : "https://image.shutterstock.com/image-photo/head-shot-portrait-close-smiling-260nw-1714666150.jpg"
-		},
-		{
-			"id": "HL444",
-			"customer": "Natu Natu",
-			"phone": "88888888",
-			"date":"2022-01-05",
-			"claimType": "Health",
-			"location": "218001",
-			"photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyeofYS0GJ208Y8qD8n-stKhjce8anHdolmCHh6CT&s"
-		},
-		{
-			"id": "HL548",
-			"customer": "Chalie Chaplin",
-			"phone": "88888888",
-			"date":"2021-12-01",
-			"claimType": "Health",
-			"location": "218001",
-			"photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOZGAo86dvgSSc1qWPJE8BcRbFVym6KAJ5EcJh_A6&s"
-		}
-	]
+   "authenticate":{
+      "id":"testid@gmail.com",
+      "expiresIn":"300",
+      "token":"dummy_token"
+   },
+   "CASE_LIST":[
+      {
+         "claimId":"b266afb6-3df8-4659-a40d-ce070aa3f5ad",
+         "customerName":"Bhola Ram",
+         "customerEmail":"agent@agency.com",
+         "policyNumber":"989898989",
+		 "policyType":"health",
+         "gender":0,
+         "addressline":"Test",
+         "code":"585404",
+         "country":"INDIA",
+         "state":"KARNATAKA",
+         "district":"BIDAR",
+         "description":"Comment",
+         "locations":[
+            {
+               "caseLocationId":1,
+               "beneficiaryName":"Goldi Baba",
+               "addressline":"localhost",
+               "addressline2":null,
+               "code":"585404",
+               "district":"BIDAR",
+               "state":"KARNATAKA"
+            }
+         ]
+      },
+	  {
+         "claimId":"b266afb6-3df8-4659-a40d-ce070aa3f5ae",
+         "customerName":"Shola Kam",
+         "customerEmail":"agent@agency.com",
+         "policyNumber":"989898988",
+		 "policyType":"death",
+         "gender":0,
+         "addressline":"Test",
+         "code":"585404",
+         "country":"INDIA",
+         "state":"KARNATAKA",
+         "district":"BIDAR",
+         "description":"Comment",
+         "locations":[
+            {
+               "caseLocationId":1,
+               "beneficiaryName":"Holdi Kaba",
+               "addressline":"localhost",
+               "addressline2":null,
+               "code":"585404",
+               "district":"BIDAR",
+               "state":"KARNATAKA"
+            }
+         ]
+      },
+	  {
+         "claimId":"b266afb6-3df8-4659-a40d-ce070aa3f5af",
+         "customerName":"Thola Bam",
+         "customerEmail":"agent@agency.com",
+         "policyNumber":"789898988",
+		 "policyType":"health",
+         "gender":0,
+         "addressline":"Test",
+         "code":"585404",
+         "country":"INDIA",
+         "state":"KARNATAKA",
+         "district":"BIDAR",
+         "description":"Comment",
+         "locations":[
+            {
+               "caseLocationId":1,
+               "beneficiaryName":"Soldi Raba",
+               "addressline":"localhost",
+               "addressline2":null,
+               "code":"585404",
+               "district":"BIDAR",
+               "state":"KARNATAKA"
+            }
+         ]
+      },
+	  {
+         "claimId":"b266afb6-3df8-4659-a40d-ce070aa3f5ag",
+         "customerName":"Mhola Pam",
+         "customerEmail":"agent@agency.com",
+         "policyNumber":"669898988",
+		 "policyType":"death",
+         "gender":0,
+         "addressline":"Test",
+         "code":"585404",
+         "country":"INDIA",
+         "state":"KARNATAKA",
+         "district":"BIDAR",
+         "description":"Comment",
+         "locations":[
+            {
+               "caseLocationId":1,
+               "beneficiaryName":"Moldi Saba",
+               "addressline":"localhost",
+               "addressline2":null,
+               "code":"585404",
+               "district":"BIDAR",
+               "state":"KARNATAKA"
+            }
+         ]
+      }
+   ]
 }
