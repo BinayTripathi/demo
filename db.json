@@ -6,7 +6,7 @@
 	},
 	"btCheck": {
 		"message": "Test message",
-		"token": "valid_token"
+		"token": "valid1_token"
 	},
 	"CASE_LIST": [
 		{
