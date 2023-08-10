@@ -4,6 +4,10 @@
 		"expiresIn": "300",
 		"token": "dummy_token"
 	},
+	"btCheck": {
+		"message": "Test message",
+		"token": "valid_token"
+	},
 	"CASE_LIST": [
 		{
 			"claimId": "b266afb6-3df8-4659-a40d-ce070aa3f5ad",
