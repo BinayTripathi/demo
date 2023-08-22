@@ -1,91 +1,195 @@
 {
-  "authenticate": {
-    "id": "testid@gmail.com",
-    "expiresIn": "300",
-    "token": "dummy_token"
-  },
-  "btCheck": {
-    "message": "Test message",
-    "token": "valid1_token"
-  },
-  "CASE_LIST": [
-    {
-      "claimId": "1f0853af-b2d7-4afd-a10a-6d14c89d21a2",
-      "customerName": "Bhola Ram",
-      "customerEmail": "agent@agency.com",
-      "policyNumber": "989898989",
-      "claimType": 1,
-      "gender": 0,
-      "addressline": "Test",
-      "code": "585404",
-      "country": "INDIA",
-      "state": "KARNATAKA",
-      "district": "MALGUDI",
-      "description": "Comment",
-      "photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
-      "locations": [
-        {
-          "caseLocationId": 1,
-          "beneficiaryName": "GoldiBaba",
-          "addressline": "localhost",
-          "addressline2": null,
-          "code": "585404",
-          "district": "BIDAR",
-          "state": "KARNATAKA"
-        }
-      ]
-    },
-    {
-      "claimId": "b266afb6-3df8-4659-a40e-ce070aa3f5ad",
-      "customerName": "Bholu Ram",
-      "customerEmail": "agent@agency.com",
-      "policyNumber": "987898989",
-      "claimType": 0,
-      "gender": 0,
-      "addressline": "Test",
-      "code": "585404",
-      "country": "INDIA",
-      "state": "KARNATAKA",
-      "district": "PANAGARH",
-      "description": "Comment",
-      "photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
-      "locations": [
-        {
-          "caseLocationId": 1,
-          "beneficiaryName": "GoldiBaba",
-          "addressline": "localhost",
-          "addressline2": null,
-          "code": "585404",
-          "district": "BIDAR",
-          "state": "KARNATAKA"
-        }
-      ]
-    },
-    {
-      "claimId": "b266afb6-3df8-4659-a40d-ce070aa3f6ad",
-      "customerName": "Badri Ram",
-      "customerEmail": "agent@agency.com",
-      "policyNumber": "989698989",
-      "claimType": 1,
-      "gender": 0,
-      "addressline": "Test",
-      "code": "585404",
-      "country": "INDIA",
-      "state": "KARNATAKA",
-      "district": "JALPAIGUDI",
-      "description": "Comment",
-      "photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
-      "locations": [
-        {
-          "caseLocationId": 1,
-          "beneficiaryName": "GoldiBaba",
-          "addressline": "localhost",
-          "addressline2": null,
-          "code": "585404",
-          "district": "BIDAR",
-          "state": "KARNATAKA"
-        }
-      ]
-    }
-  ]
+	"authenticate": {
+		"id": "testid@gmail.com",
+		"expiresIn": "300",
+		"token": "dummy_token"
+	},
+	"btCheck": {
+		"message": "Test message",
+		"token": "valid1_token"
+	},
+	"CASE_LIST": [
+		{
+			"claimId": "1f0853af-b2d7-4afd-a10a-6d14c89d21a2",
+			"customerName": "Bhola Ram",
+			"customerEmail": "agent@agency.com",
+			"policyNumber": "989898989",
+			"claimType": 1,
+			"gender": 0,
+			"addressline": "Test",
+			"code": "585404",
+			"country": "INDIA",
+			"state": "KARNATAKA",
+			"district": "MALGUDI",
+			"description": "Comment",
+			"photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+			"locations": [
+				{
+					"caseLocationId": 1,
+					"beneficiaryName": "GoldiBaba",
+					"addressline": "localhost",
+					"addressline2": null,
+					"code": "585404",
+					"district": "BIDAR",
+					"state": "KARNATAKA"
+				}
+			]
+		},
+		{
+			"claimId": "b266afb6-3df8-4659-a40e-ce070aa3f5ad",
+			"customerName": "Bholu Ram",
+			"customerEmail": "agent@agency.com",
+			"policyNumber": "987898989",
+			"claimType": 0,
+			"gender": 0,
+			"addressline": "Test",
+			"code": "585404",
+			"country": "INDIA",
+			"state": "KARNATAKA",
+			"district": "PANAGARH",
+			"description": "Comment",
+			"photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+			"locations": [
+				{
+					"caseLocationId": 1,
+					"beneficiaryName": "GoldiBaba",
+					"addressline": "localhost",
+					"addressline2": null,
+					"code": "585404",
+					"district": "BIDAR",
+					"state": "KARNATAKA"
+				}
+			]
+		},
+		{
+			"claimId": "b266afb6-3df8-4659-a40d-ce070aa3f6ad",
+			"customerName": "Badri Ram",
+			"customerEmail": "agent@agency.com",
+			"policyNumber": "989698989",
+			"claimType": 1,
+			"gender": 0,
+			"addressline": "Test",
+			"code": "585404",
+			"country": "INDIA",
+			"state": "KARNATAKA",
+			"district": "JALPAIGUDI",
+			"description": "Comment",
+			"photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+			"locations": [
+				{
+					"caseLocationId": 1,
+					"beneficiaryName": "GoldiBaba",
+					"addressline": "localhost",
+					"addressline2": null,
+					"code": "585404",
+					"district": "BIDAR",
+					"state": "KARNATAKA"
+				}
+			]
+		},
+		{
+			"claimId": "b266afb6-3df8-4659-a40d-ce070aa4f6ad",
+			"customerName": "Badri Ram",
+			"customerEmail": "agent@agency.com",
+			"policyNumber": "989698989",
+			"claimType": 1,
+			"gender": 0,
+			"addressline": "Test",
+			"code": "585404",
+			"country": "INDIA",
+			"state": "KARNATAKA",
+			"district": "JALPAIGUDI",
+			"description": "Comment",
+			"photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+			"locations": [
+				{
+					"caseLocationId": 1,
+					"beneficiaryName": "GoldiBaba",
+					"addressline": "localhost",
+					"addressline2": null,
+					"code": "585404",
+					"district": "BIDAR",
+					"state": "KARNATAKA"
+				}
+			]
+		},
+		{
+			"claimId": "b266afb6-3df8-4659-a40d-ce070aa5f6ad",
+			"customerName": "Badri Ram",
+			"customerEmail": "agent@agency.com",
+			"policyNumber": "989698989",
+			"claimType": 1,
+			"gender": 0,
+			"addressline": "Test",
+			"code": "585404",
+			"country": "INDIA",
+			"state": "KARNATAKA",
+			"district": "JALPAIGUDI",
+			"description": "Comment",
+			"photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+			"locations": [
+				{
+					"caseLocationId": 1,
+					"beneficiaryName": "GoldiBaba",
+					"addressline": "localhost",
+					"addressline2": null,
+					"code": "585404",
+					"district": "BIDAR",
+					"state": "KARNATAKA"
+				}
+			]
+		},
+		{
+			"claimId": "b266afb6-3df8-4659-a40d-ce070aa6f6ad",
+			"customerName": "Badri Ram",
+			"customerEmail": "agent@agency.com",
+			"policyNumber": "989698989",
+			"claimType": 1,
+			"gender": 0,
+			"addressline": "Test",
+			"code": "585404",
+			"country": "INDIA",
+			"state": "KARNATAKA",
+			"district": "JALPAIGUDI",
+			"description": "Comment",
+			"photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+			"locations": [
+				{
+					"caseLocationId": 1,
+					"beneficiaryName": "GoldiBaba",
+					"addressline": "localhost",
+					"addressline2": null,
+					"code": "585404",
+					"district": "BIDAR",
+					"state": "KARNATAKA"
+				}
+			]
+		},
+		{
+			"claimId": "b266afb6-3df8-4659-a40d-ce070aa7f6ad",
+			"customerName": "Badri Ram",
+			"customerEmail": "agent@agency.com",
+			"policyNumber": "989698989",
+			"claimType": 1,
+			"gender": 0,
+			"addressline": "Test",
+			"code": "585404",
+			"country": "INDIA",
+			"state": "KARNATAKA",
+			"district": "JALPAIGUDI",
+			"description": "Comment",
+			"photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+			"locations": [
+				{
+					"caseLocationId": 1,
+					"beneficiaryName": "GoldiBaba",
+					"addressline": "localhost",
+					"addressline2": null,
+					"code": "585404",
+					"district": "BIDAR",
+					"state": "KARNATAKA"
+				}
+			]
+		}
+	]
 }
